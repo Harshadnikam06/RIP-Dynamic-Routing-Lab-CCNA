@@ -21,8 +21,8 @@ CCNA RIP Dynamic Routing Lab using Cisco Packet Tracer. Includes step-by-step co
 - Show ip route output confirms correct static routing.
 
 ## Files
-- Static_Routing_Lab.pkt → Packet Tracer file
-- Lab_Documentation.pdf → Step-by-step guide
+- RIP Lab.pkt → Packet Tracer file
+- RIP Documentation.pdf → Step-by-step guide
 - Screenshots/ → Ping test results, router configurations
 
 ## Observations / Challenges
@@ -40,4 +40,4 @@ subnet mismatch.
  [Static_Routing_Lab.pdf](https://github.com/user-attachments/files/22674493/Static_Routing_Lab.pdf)
 
 ## Topology Image
-<img width="1362" height="718" alt="Image" src="https://github.com/user-attachments/assets/2efcd4cc-e531-4487-a375-67a94792d79f" />
+<img width="1365" height="713" alt="Image" src="https://github.com/user-attachments/assets/1e411593-1226-4e1c-8ae3-47afb309edc1" />
