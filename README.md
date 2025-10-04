@@ -23,7 +23,6 @@ CCNA RIP Dynamic Routing Lab using Cisco Packet Tracer. Includes step-by-step co
 ## Files
 - RIP Lab.pkt → Packet Tracer file
 - RIP Documentation.pdf → Step-by-step guide
-- Screenshots/ → Ping test results, router configurations
 
 ## Observations / Challenges
 - All routers successfully exchanged routing tables automatically 
@@ -37,7 +36,7 @@ subnet mismatch.
 
 ## Documentation
 - The complete step-by-step configuration and observations are available in the PDF below:
- [Static_Routing_Lab.pdf](https://github.com/user-attachments/files/22674493/Static_Routing_Lab.pdf)
+ [RIP Documentation.pdf](https://github.com/user-attachments/files/22694705/RIP.Documentation.pdf)
 
 ## Topology Image
 <img width="1365" height="713" alt="Image" src="https://github.com/user-attachments/assets/1e411593-1226-4e1c-8ae3-47afb309edc1" />
